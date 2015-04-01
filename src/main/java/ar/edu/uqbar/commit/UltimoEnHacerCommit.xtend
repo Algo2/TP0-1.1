@@ -4,6 +4,6 @@ class UltimoEnHacerCommit {
 	
 	def ultimoCommit() {
 		// Se hace nuevo Commit
-		"Leandro Emanuel Salomon"
+		"Daniel H. Balboa"
 	}
 }
