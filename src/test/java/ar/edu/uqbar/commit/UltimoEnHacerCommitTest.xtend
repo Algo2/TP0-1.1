@@ -7,8 +7,6 @@ class UltimoEnHacerCommitTest {
 	@Test
 	def void quienCommiteo() {
 		val quienCommiteo = new UltimoEnHacerCommit;
-
-		//quienCommiteo.ultimoEnHacerCommit();
-		Assert.assertEquals("Daniel H. Balboa", quienCommiteo.ultimoCommit());
+		Assert.assertEquals("Juan Petelski", quienCommiteo.ultimoCommit());
 	}
 }
